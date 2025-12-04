@@ -1,0 +1,17 @@
+# Python / Anaconda
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.venv/
+.env/
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Build artefacts (docs, etc.)
+site/
